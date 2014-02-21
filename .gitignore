@@ -16,3 +16,7 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+*.iml
+iron.json
+config.yml
